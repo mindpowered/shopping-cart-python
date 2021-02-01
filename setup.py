@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 setuptools.setup(
     name='mindpowered-shoppingcart',
-    version='0.0.12',
+    version='0.0.13',
     author="Mind Powered Corporation",
     author_email="support@mindpowered.dev",
     license="MIT",
